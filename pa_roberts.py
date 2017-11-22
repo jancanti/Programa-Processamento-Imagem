@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from skimage.data import camera
 from skimage.filters import roberts, sobel, scharr, prewitt
 
-image = camera('img/ingrid.jpg')
+image = camera()
 edge_roberts = roberts(image)
 edge_sobel = sobel(image)
 
