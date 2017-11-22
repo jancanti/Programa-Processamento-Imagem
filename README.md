@@ -28,9 +28,9 @@ O trabalho tem por objetivo a implementação das operações de rotacionamento,
 
 ### Passa-baixa: 
 
-- média, 
-- mediana, 
-- moda, 
+- Média
+- Mediana
+- Moda
 - Gaussiano
 
 ## Relatório:
