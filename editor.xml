@@ -4,8 +4,4 @@
     <option name="FONT_FAMILY" value="Inconsolata" />
     <option name="LINE_SPACING" value="1.25" />
   </component>
-  <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
-    <pattern pattern="\bfixme\b.*" />
-  </component>
 </application>
