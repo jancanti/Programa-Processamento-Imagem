@@ -2,7 +2,7 @@ import cv2
 
 img = cv2.imread('img/ingrid-color.jpg', 1)
 
-# CLAHE (Contrast Limited Adaptive Histogram Equalization)
+# CLAHE (Contraste Limitado Adaptado a Equalização do Histograma)
 clahe = cv2.createCLAHE(clipLimit=3., tileGridSize=(8,8))
 
 lab = cv2.cvtColor(img, cv2.COLOR_BGR2LAB)  # convert from BGR to LAB color space
