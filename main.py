@@ -16,7 +16,7 @@ python-dateutil	2.6.1	2.6.1
 pytz	        2017.3	2017.3
 scipy	        1.0.0	1.0.0rc2
 setuptools	    28.8.0	37.0.0
-six	    1.11.0	1.11.0
+six	            1.11.0	1.11.0
 '''
 
 import os
