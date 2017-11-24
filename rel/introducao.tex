@@ -1,0 +1,18 @@
+\newpage
+\section{Introdução}
+Este trabalho tem por objetivo a implementação das operações de rotacionamento, redirecionamento e aplicação de filtros de imagens. A filtragem aplicada a uma imagem digital é uma operação local que modifica os valores dos níveis digitais de cada pixel da imagem considerando o contexto atual do pixel.
+
+O processo de filtragem é feito utilizando matrizes denominadas máscaras, as quais são aplicadas sobre a imagem. Pela filtragem, o valor de cada pixel da imagem é modificado utilizando-se uma operação de vizinhança, ou seja, uma operação que leva em conta os níveis digitais dos pixels vizinhos e o próprio valor digital do pixel considerado. Nas definições de vizinhança começamos por considerar que: um pixel qualquer da imagem digital é vizinho dele mesmo.
+
+Os filtros espaciais podem ser classificados em passa-baixa, passa-alta ou passa-banda. Os dois primeiros são os mais utilizados em processamento de imagens. O filtro passa-banda é mais utilizado em processamentos específicos, principalmente para remover ruídos periódicos.
+
+\section{Objetivos da filtragem}
+Extração de ruídos da imagem;
+Homogeneização da imagem ou de alvos específicos;
+Melhora na discriminação de alvos da imagem;
+Detecção de bordas entre alvos distintos presentes na imagem;
+Detecção de formas.
+
+\section{Conceitos básicos da filtragem digital}
+No processo de filtragem digital utiliza-se uma operação de convolução de uma máscara pela imagem digital. Isso equivale a uma operação que "passeia" sobre toda imagem original modificando seus valores de acôrdo com os valores da imagem originais e os pesos da máscara.
+A máscara utilizada é também uma imagem, em geral quadrada, menor que a imagem original. Os valores da imagem máscara são utilizados como pesos a serem aplicados sobre os níveis digitais dos pixels da imagem original.
