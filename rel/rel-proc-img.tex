@@ -9,8 +9,11 @@
 \usepackage[T1]{fontenc}
 \usepackage{amsfonts}
 \usepackage[brazil]{babel}
+\usepackage{epstopdf}
 \renewcommand{\familydefault}{\sfdefault}
 \usepackage{helvet}
+\usepackage{epstopdf}
+\epstopdfsetup{outdir=./}
 
 % CONFIGURACAO CODIGO
 \usepackage{listings}
@@ -20,7 +23,7 @@
 
 % CONFIGURACAO IMAGENS
 \usepackage{graphicx}
-\graphicspath{{img/}}
+\usepackage{epstopdf-base}
 
 % GERAR TEXTO
 \usepackage{lipsum}
