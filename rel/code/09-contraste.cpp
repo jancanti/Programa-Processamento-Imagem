@@ -18,7 +18,7 @@ void MainWindow::on_Constrate_valueChanged(double value) {
   }
   cvShowImage("OUTPUT", output);
 }
-Onde a função para modificar o contraste de cada pixel é:
+
   void * contraste_pixel(unsigned char * w) {
     float temp;
     temp = ( * w) * contraste;

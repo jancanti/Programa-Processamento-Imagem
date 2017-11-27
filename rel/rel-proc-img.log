@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.25)  25 NOV 2017 11:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.25)  27 NOV 2017 16:10
 entering extended mode
 **./rel-proc-img.tex
 (rel-proc-img.tex
@@ -712,30 +712,169 @@ Package pdftex.def Info: img/04-rotacao-2.jpg  used on input line 50. on input
 line 50.
 Package pdftex.def Info: Requested size: 455.24411pt x 218.13803pt on input lin
 e 50.
- (code/04-rotacao.py [7 <./img/03-cinza.jpg> <./img/04-rotacao-1.jpg>])) [8 <./
-img/04-rotacao-2.jpg>]
+ (code/04-rotacao.py [7 <./img/03-cinza.jpg> <./img/04-rotacao-1.jpg>]) [8 <./i
+mg/04-rotacao-2.jpg>]
+<img/05-redimen.jpg, id=37, 1003.75pt x 501.875pt>
+File: img/05-redimen.jpg Graphic file (type jpg)
+<use img/05-redimen.jpg>
+Package pdftex.def Info: img/05-redimen.jpg  used on input line 76. on input li
+ne 76.
+Package pdftex.def Info: Requested size: 455.24411pt x 227.62596pt on input lin
+e 76.
+ (code/05-redimen.py)
+<img/06-espelho.jpg, id=38, 963.6pt x 461.725pt>
+File: img/06-espelho.jpg Graphic file (type jpg)
+<use img/06-espelho.jpg>
+Package pdftex.def Info: img/06-espelho.jpg  used on input line 88. on input li
+ne 88.
+Package pdftex.def Info: Requested size: 455.24411pt x 218.13803pt on input lin
+e 88.
+
+(code/06-espelho.cpp
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <6> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 1.
+LaTeX Font Info:    Font shape `OMS/phv/m/it' in size <6> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 1.
+ [9 <./img/05-redimen.jpg>])
+<img/06-espelho2.jpg, id=42, 963.6pt x 461.725pt>
+File: img/06-espelho2.jpg Graphic file (type jpg)
+<use img/06-espelho2.jpg>
+Package pdftex.def Info: img/06-espelho2.jpg  used on input line 97. on input l
+ine 97.
+Package pdftex.def Info: Requested size: 455.24411pt x 218.13803pt on input lin
+e 97.
+ (code/06-espelho2.cpp [10 <./img/06-espelho.jpg> <./img/06-espelho2.jpg>])
+<img/07-negativo.jpg, id=47, 963.6pt x 461.725pt>
+File: img/07-negativo.jpg Graphic file (type jpg)
+<use img/07-negativo.jpg>
+Package pdftex.def Info: img/07-negativo.jpg  used on input line 116. on input 
+line 116.
+Package pdftex.def Info: Requested size: 455.24411pt x 218.13803pt on input lin
+e 116.
+ (code/07-negativo.cpp [11 <./img/07-negativo.jpg>])
+<img/08-brilho.jpg, id=51, 963.6pt x 461.725pt>
+File: img/08-brilho.jpg Graphic file (type jpg)
+<use img/08-brilho.jpg>
+Package pdftex.def Info: img/08-brilho.jpg  used on input line 128. on input li
+ne 128.
+Package pdftex.def Info: Requested size: 455.24411pt x 218.13803pt on input lin
+e 128.
+ (code/08-brilho.cpp [12 <./img/08-brilho.jpg>])
+<img/09-contraste.jpg, id=55, 963.6pt x 461.725pt>
+File: img/09-contraste.jpg Graphic file (type jpg)
+<use img/09-contraste.jpg>
+Package pdftex.def Info: img/09-contraste.jpg  used on input line 140. on input
+ line 140.
+Package pdftex.def Info: Requested size: 455.24411pt x 218.13803pt on input lin
+e 140.
+
+(code/09-contraste.cpp [13 <./img/09-contraste.jpg>])
+<img/10-sobel.png, id=60, 1094.1678pt x 352.6776pt>
+File: img/10-sobel.png Graphic file (type png)
+<use img/10-sobel.png>
+Package pdftex.def Info: img/10-sobel.png  used on input line 156. on input lin
+e 156.
+Package pdftex.def Info: Requested size: 455.24411pt x 146.73517pt on input lin
+e 156.
+ (code/10-sobel.py
+[14 <./img/10-sobel.png>])
+<img/11-prewitt.png, id=64, 1387.584pt x 710.4141pt>
+File: img/11-prewitt.png Graphic file (type png)
+<use img/11-prewitt.png>
+Package pdftex.def Info: img/11-prewitt.png  used on input line 168. on input l
+ine 168.
+Package pdftex.def Info: Requested size: 455.24411pt x 233.07153pt on input lin
+e 168.
+ (code/11-prewitt.cpp [15])
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 176.
+<img/12-roberts.jpg, id=69, 963.6pt x 461.725pt>
+File: img/12-roberts.jpg Graphic file (type jpg)
+<use img/12-roberts.jpg>
+Package pdftex.def Info: img/12-roberts.jpg  used on input line 180. on input l
+ine 180.
+Package pdftex.def Info: Requested size: 455.24411pt x 218.13803pt on input lin
+e 180.
+ (code/12-roberts.cpp)
+[16 <./img/11-prewitt.png>]
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 192.
+<img/13-canny.png, id=74, 375.0813pt x 192.9609pt>
+File: img/13-canny.png Graphic file (type png)
+<use img/13-canny.png>
+Package pdftex.def Info: img/13-canny.png  used on input line 201. on input lin
+e 201.
+Package pdftex.def Info: Requested size: 455.24411pt x 234.21065pt on input lin
+e 201.
+ (code/13-canny.cpp [17 <./img/12-roberts.jpg>])
+<img/14-laplaciano.png, id=78, 1107.8991pt x 534.798pt>
+File: img/14-laplaciano.png Graphic file (type png)
+<use img/14-laplaciano.png>
+Package pdftex.def Info: img/14-laplaciano.png  used on input line 213. on inpu
+t line 213.
+Package pdftex.def Info: Requested size: 455.24411pt x 219.75006pt on input lin
+e 213.
+
+(code/14-laplaciano.cpp [18 <./img/13-canny.png> <./img/14-laplaciano.png>])
+<img/15-media.png, id=82, 384.4764pt x 201.6333pt>
+File: img/15-media.png Graphic file (type png)
+<use img/15-media.png>
+Package pdftex.def Info: img/15-media.png  used on input line 225. on input lin
+e 225.
+Package pdftex.def Info: Requested size: 455.24411pt x 238.74977pt on input lin
+e 225.
+
+(code/15-media.py [19 <./img/15-media.png>])
+<img/16-mediana.png, id=87, 375.804pt x 193.6836pt>
+File: img/16-mediana.png Graphic file (type png)
+<use img/16-mediana.png>
+Package pdftex.def Info: img/16-mediana.png  used on input line 237. on input l
+ine 237.
+Package pdftex.def Info: Requested size: 455.24411pt x 234.63861pt on input lin
+e 237.
+ (code/17-mediana.py [20 <./img/16-mediana.png>])
+<img/18-moda.jpg, id=91, 1227.58624pt x 333.245pt>
+File: img/18-moda.jpg Graphic file (type jpg)
+<use img/18-moda.jpg>
+Package pdftex.def Info: img/18-moda.jpg  used on input line 249. on input line
+ 249.
+Package pdftex.def Info: Requested size: 455.24411pt x 123.58347pt on input lin
+e 249.
+<img/19-gaussiano.jpg, id=92, 963.6pt x 461.725pt>
+File: img/19-gaussiano.jpg Graphic file (type jpg)
+<use img/19-gaussiano.jpg>
+Package pdftex.def Info: img/19-gaussiano.jpg  used on input line 258. on input
+ line 258.
+Package pdftex.def Info: Requested size: 455.24411pt x 218.13803pt on input lin
+e 258.
+ (code/19-gaussiano.java)) [21 <./img/18-moda.jpg>] [22 <./img/19-gaussiano.jpg
+>]
 \openout2 = `conclusao.aux'.
 
- (conclusao.tex) (rel-proc-img.aux
-(capa.aux) (introducao.aux) (descricao.aux) (resultados.aux) (conclusao.aux)) )
- 
+ (conclusao.tex) [23
+
+
+] (rel-proc-img.aux (capa.aux)
+(introducao.aux) (descricao.aux) (resultados.aux) (conclusao.aux)) ) 
 Here is how much of TeX's memory you used:
- 5732 strings out of 493312
- 75403 string characters out of 3138865
- 280840 words of memory out of 3000000
- 9111 multiletter control sequences out of 15000+200000
- 28960 words of font info for 42 fonts, out of 3000000 for 9000
+ 6254 strings out of 493312
+ 82899 string characters out of 3138865
+ 291847 words of memory out of 3000000
+ 9576 multiletter control sequences out of 15000+200000
+ 43145 words of font info for 60 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,5n,60p,613b,1669s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\daniel_jançanti\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\e
-c\dpi600\ectt1200.pk>{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<
-C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Progr
-am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files/
-MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fon
-ts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on rel-proc-img.pdf (8 pages, 423416 bytes).
+ 42i,5n,60p,649b,1669s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program
+ Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc} <C:\Users\daniel_jançanti\AppDa
+ta\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1200.pk><C:/Program 
+Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files/MiKTeX 2.9/
+fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/ur
+w/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhv
+ro8a.pfb>
+Output written on rel-proc-img.pdf (23 pages, 2777320 bytes).
 PDF statistics:
- 68 PDF objects out of 1000 (max. 8388607)
+ 136 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 101 words of extra memory for PDF output out of 10000 (max. 10000000)
 
