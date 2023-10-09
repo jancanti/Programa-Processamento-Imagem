@@ -35,8 +35,4 @@ O trabalho tem por objetivo a implementação das operações de rotacionamento,
 
 ## Relatório:
 
-- Capa;
-- Introdução;
-- Descrição do trabalho;
-- Resultados (mostrando e explicando os resultados);
-- Conclusão.
+Produzido para as aulas de Processamento de Imagem.
